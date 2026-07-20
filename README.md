@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?username=string-theocracy&color=E8F9FF)
+![](https://komarev.com/ghpvc/?username=string-theocracy&color=C4D9FF)
