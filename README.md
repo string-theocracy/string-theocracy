@@ -21,9 +21,5 @@ Retrieved 2026-07-21, License - CC BY-SA 4.0
 <!-- HTML -->
 <h1 class="center-text"> </h1>
 <p class="center-text">This paragraph is also centered.</p>
-
-CSS (![](https://komarev.com/ghpvc/?username=string-theocracy&color=C4D9FF))
-  .center-text {
-    text-align: center;
-  }
-</style>
+<p style="text-align: center;"> ![](https://komarev.com/ghpvc/?username=string-theocracy&color=C4D9FF)
+.</p>
