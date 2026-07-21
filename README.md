@@ -21,4 +21,4 @@
 ⠀⠀⠀
 
    [_𝒜tabook_](https://example.com) <img width="20" height="20" alt="7sy6jb" src="https://github.com/user-attachments/assets/b8e9aa84-0f22-40b5-95ea-90fb7ec0f443" />
-[_ℛentry_](https://rentry.co/librarianstarandcity)
+[_ℛentry_](https://rentry.co/stringtheocracys)
