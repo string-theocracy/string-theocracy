@@ -12,12 +12,7 @@
 
  <div align="center">
    wip
-<!-- HTML -->
+
 <h1 class="center-text"> </h1>
 
-
-<div style="text-align: center;">
-
-  <p> ![](https://komarev.com/ghpvc/?username=string-theocracy&color=C4D9FF) </p></p>
-
-</div>
+![](https://komarev.com/ghpvc/?username=string-theocracy&color=C4D9FF)
