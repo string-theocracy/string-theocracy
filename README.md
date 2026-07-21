@@ -20,6 +20,10 @@ Retrieved 2026-07-21, License - CC BY-SA 4.0
    wip
 <!-- HTML -->
 <h1 class="center-text"> </h1>
-<p class="center-text">This paragraph is also centered.</p>
-<p style="text-align: center;"> ![](https://komarev.com/ghpvc/?username=string-theocracy&color=C4D9FF)
-.</p>
+
+
+<div style="text-align: center;">
+
+  <p> ![](https://komarev.com/ghpvc/?username=string-theocracy&color=C4D9FF) </p></p>
+
+</div>
